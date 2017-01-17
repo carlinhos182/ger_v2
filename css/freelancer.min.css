@@ -23,7 +23,7 @@
  .navbar-custom .navbar-nav li a,header{color:#fff}
  .img-centered{margin:0 auto}
  header{text-align:center;background:#fff}
- header .container{padding-top:50px;padding-bottom:50px}
+ header .container{padding-top:30px;padding-bottom:30px}
  header img{display:block;margin:0 auto 10px}
  header .intro-text .name{display:block;font-weight:700;font-size:2em}
  header .intro-text .skills{font-size:1.25em;font-weight:300; color:#23577d}
