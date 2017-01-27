@@ -22,7 +22,7 @@
  .navbar-custom .navbar-brand:hover,
  .navbar-custom .navbar-nav li a,header{color:#fff}
  .img-centered{margin:0 auto}
- header{text-align:center;background-image:url("ferramen.jpg");background-size:100%;background-position: left top;background-repeat: no-repeat;}
+ header{text-align:center;background-image:url("ferramen.jpg");background-size:100%;background-position: center;background-repeat: no-repeat;}
  header .container{padding-top:50px;padding-bottom:20px}
  header img{display:block;margin:0 auto 10px}
  header .intro-text .name{display:block;font-weight:700;font-size:2em}
