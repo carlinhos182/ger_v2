@@ -68,8 +68,21 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
+  background-image: url('img/obra_wp.png');
+  background-repeat: no-repeat;
+  background-size:100%;
+  bottom: 0;
+  left: 0;
+  overflow: auto;
+  padding: 3em;
+  position: absolute;
+  right: 0;
   text-align: center;
-  background: #237f99;
+  top: 0;
+  background-size: cover;
+  
+  
+  
   color: white;
 }
 header .container {
@@ -503,3 +516,17 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+    background-image: url('img/obra_wp.png');
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+
